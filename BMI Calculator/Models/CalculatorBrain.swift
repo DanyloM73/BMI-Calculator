@@ -23,7 +23,7 @@ struct CalculatorBrain {
         case 18.5...24.9:
             advice = "Fir as a fiddle!"
             color = #colorLiteral(red: 0.721568644, green: 0.8862745166, blue: 0.5921568871, alpha: 1)
-        case 25...30:
+        case 25...:
             advice = "Eat less pies!"
             color = #colorLiteral(red: 0.9098039269, green: 0.4784313738, blue: 0.6431372762, alpha: 1)
         default:
