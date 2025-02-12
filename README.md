@@ -16,16 +16,16 @@
 
 ### Start screen:
 
-![Start screen](Documentation/1.png)
+<img src="Documentation/1.png" alt="Start screen" width="300">
 
 ### First variant of result screen
 
-![Result screen 1](Documentation/2.png)
+<img src="Documentation/2.png" alt="Result screen 1" width="300">
 
 ### Second variant of result screen
 
-![Result screen 2](Documentation/3.png)
+<img src="Documentation/3.png" alt="Result screen 2" width="300">
 
 ### Third variant of result screen
 
-![Result screen 3](Documentation/4.png)
+<img src="Documentation/4.png" alt="Result screen 3" width="300">
