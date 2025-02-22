@@ -1,6 +1,6 @@
 #  BMI Calculator
 
-### Simple iOS/iPadOS applicaton that helps you to calculate your BMI
+### A simple iOS/iPadOS applicaton that helps you to calculate your BMI
 
 ## Used technologies and tools
 
